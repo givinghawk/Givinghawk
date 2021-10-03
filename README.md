@@ -361,9 +361,6 @@
     <li>
       <a href="#projects">Work</a>
     </li>
-    <li>
-      <a href="#contact">Contact</a>
-    </li>
   </ul>
 </nav>
 
@@ -372,7 +369,7 @@
 <!-- START WELCOME SECTION -->
 
 <section id="welcome-section" class="welcome-section">
-  <h1>Hey I am Mimic</h1>
+  <h1>Hey I am Givinghawk</h1>
   <p>a web developer</p>
 </section>
 
@@ -385,165 +382,56 @@
 
   <div class="projects-grid">
     <a
-      href="https://codepen.io/freeCodeCamp/full/zNqgVx"
+      href="https://johnsysrp.net/"
       target="_blank"
       class="project project-tile"
     >
       <img
         class="project-image"
-        src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute.jpg"
+        src="https://cdn.discordapp.com/attachments/819484127006949397/819574432661241887/okokok.png"
         alt="project"
       />
       <p class="project-title">
         <span class="code">&lt;</span>
-        Tribute Page
+        JohnsysRP
         <span class="code">&#47;&gt;</span>
       </p>
     </a>
     <a
-      href="https://codepen.io/freeCodeCamp/full/qRZeGZ"
+      href="https://opensourcewebproject.github.io/Open-Source-Web/"
       target="_blank"
       class="project project-tile"
     >
       <img
         class="project-image"
-        src="https://cdn.freecodecamp.org/testable-projects-fcc/images/random-quote-machine.png"
+        src="https://avatars.githubusercontent.com/u/91436374?s=200&v=4"
         alt="project"
       />
       <p class="project-title">
         <span class="code">&lt;</span>
-        Random Quote Machine
+        Open Source Web
         <span class="code">&#47;&gt;</span>
       </p>
     </a>
-    <a
-      href="https://codepen.io/freeCodeCamp/full/wgGVVX"
-      target="_blank"
-      class="project project-tile"
-    >
-      <img
-        class="project-image"
-        src="https://cdn.freecodecamp.org/testable-projects-fcc/images/calc.png"
-        alt="project"
-      />
-      <p class="project-title">
-        <span class="code">&lt;</span>
-        JavaScript Calculator
-        <span class="code">&#47;&gt;</span>
-      </p>
-    </a>
-    <a
-      href="https://codepen.io/freeCodeCamp/full/mVEJag"
-      target="_blank"
-      class="project project-tile"
-    >
-      <img
-        class="project-image"
-        src="https://cdn.freecodecamp.org/testable-projects-fcc/images/map.jpg"
-        alt="project"
-      />
-      <p class="project-title">
-        <span class="code">&lt;</span>
-        Map Data Across the Globe
-        <span class="code">&#47;&gt;</span>
-      </p>
-    </a>
-    <a
-      href="https://codepen.io/freeCodeCamp/full/wGqEga"
-      target="_blank"
-      class="project project-tile"
-    >
-      <img
-        class="project-image"
-        src="https://cdn.freecodecamp.org/testable-projects-fcc/images/wiki.png"
-        alt="project"
-      />
-      <p class="project-title">
-        <span class="code">&lt;</span>
-        Wikipedia Viewer
-        <span class="code">&#47;&gt;</span>
-      </p>
-    </a>
-    <a
-      href="https://codepen.io/freeCodeCamp/full/KzXQgy"
-      target="_blank"
-      class="project project-tile"
-    >
-      <img
-        class="project-image"
-        src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tic-tac-toe.png"
-        alt="project"
-      />
-      <p class="project-title">
-        <span class="code">&lt;</span>
-        Tic Tac Toe Game
-        <span class="code">&#47;&gt;</span>
-      </p>
-    </a>
+
   </div>
 
-  <a
-    href="https://codepen.io/FreeCodeCamp/"
-    class="btn btn-show-all"
-    target="_blank"
-    >Show all<i class="fas fa-chevron-right"></i
-  ></a>
+
 </section>
 
 <!-- END PROJECTS SECTION -->
 
 <!-- START CONTACT SECTION -->
 
-<section id="contact" class="contact-section">
-  <div class="contact-section-header">
-    <h2>Let's work together...</h2>
-    <p>How do you take your coffee?</p>
-  </div>
-  <div class="contact-links">
-    <a
-      href="https://facebook.com/freecodecamp"
-      target="_blank"
-      class="btn contact-details"
-      ><i class="fab fa-facebook-square"></i> Facebook</a
-    >
-    <a
-      id="profile-link"
-      href="https://github.com/freecodecamp"
-      target="_blank"
-      class="btn contact-details"
-      ><i class="fab fa-github"></i> GitHub</a
-    >
-    <a
-      href="https://twitter.com/freecodecamp"
-      target="_blank"
-      class="btn contact-details"
-      ><i class="fab fa-twitter"></i> Twitter</a
-    >
-    <a href="mailto:example@example.com" class="btn contact-details"
-      ><i class="fas fa-at"></i> Send a mail</a
-    >
-    <a href="tel:555-555-5555" class="btn contact-details"
-      ><i class="fas fa-mobile-alt"></i> Call me</a
-    >
-  </div>
-</section>
+
+
 
 <!-- END CONTACT SECTION -->
 
 <!-- START FOOTER SECTION -->
 
-<footer>
-  <p>
-    **This is just a fake portfolio. All the projects and contact details given
-    are not real.
-  </p>
-  <p>
-    &copy; Created for
-    <a href="https://www.freecodecamp.com/" target="_blank"
-      >sovem<i class="fab fa-free-code-camp"></i
-    ></a>
-  </p>
-</footer>
+
+
 
 <!-- END FOOTER SECTION -->
 
