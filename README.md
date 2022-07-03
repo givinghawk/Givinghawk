@@ -14,3 +14,5 @@ You can contact me on Discord via [my discord server](https://discord.gg/f8xVZuh
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=givinghawk&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=b92dc025b5e5&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y0DLSIF)
